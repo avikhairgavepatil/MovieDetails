@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="papular"
+        android:id="@+id/papular" />
+    <item android:title="Now_Plaing"
+        android:id="@+id/now_plaing" />
+    <item android:title="Up_Coming"
+        android:id="@+id/up_coming" />
+    <item android:title="Top_Rated"
+        android:id="@+id/top_rated" />
+</menu>
