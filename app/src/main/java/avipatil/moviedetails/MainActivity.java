@@ -34,6 +34,7 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         //linking  layout;
+        //comment
         setContentView(R.layout.activitymain);
         listView= (ListView) findViewById(R.id.listView);
         listView.setOnItemClickListener(this);
